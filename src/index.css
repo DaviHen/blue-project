@@ -1,18 +1,3 @@
-/*
-  
-  Tufts Blue: #3C91E6
-  SpaceCadet: #273469
-  SpaceCadet2: #1E2749
-
-  Black Coffe: #342E37
-  GunMetal: #30343F
-
-  Ghost White: #FAFAFF
-  Lavander Blue: #E4D9FF
-
-*/
-
-
 *{
   padding: 0;
   margin: 0;
@@ -52,7 +37,7 @@ body{
 }
 
 .Navbar-ul li{
-  margin: 0 .5rem;
+  margin: 0 .3rem;
   display: inline-block;
 }
 
@@ -112,10 +97,6 @@ body{
 
 .Home-content-howTo{
   font-size: 1.2rem;
-}
-
-.Home-content-howTo p{
-
 }
 
 .Home-content-howTo span{
@@ -499,5 +480,17 @@ body{
 
   /* Edit end */
 
+  
+  .Navbar-logo{
+    font-size: 1.8rem;
+  }
+  
+  .Navbar-ul li{
+    margin: 0 .2rem;
+  }
+  
+  .Navbar-links{
+    font-size: 1rem;
+  }
 
 }
