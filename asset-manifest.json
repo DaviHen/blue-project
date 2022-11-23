@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blue-project/static/css/main.b9d31ecc.css",
+    "main.css": "/blue-project/static/css/main.6ecfe259.css",
     "main.js": "/blue-project/static/js/main.dfa482fd.js",
     "index.html": "/blue-project/index.html",
-    "main.b9d31ecc.css.map": "/blue-project/static/css/main.b9d31ecc.css.map",
+    "main.6ecfe259.css.map": "/blue-project/static/css/main.6ecfe259.css.map",
     "main.dfa482fd.js.map": "/blue-project/static/js/main.dfa482fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9d31ecc.css",
+    "static/css/main.6ecfe259.css",
     "static/js/main.dfa482fd.js"
   ]
 }
