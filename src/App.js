@@ -9,7 +9,7 @@ import EditBlogs from './components/EditBlogs';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
 		<div className="App-container">
 			<Navbar />
 			<div className="App-content">
